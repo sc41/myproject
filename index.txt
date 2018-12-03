@@ -1,0 +1,1 @@
+GIT is up and running in AWS
