@@ -1,2 +1,2 @@
 GIT is up and running in AWS
-Hello GIT sprint
+Hello GIT sprint_20dec
